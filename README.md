@@ -1,2 +1,2 @@
-# REST-API-with-microservice-architecture
-Building RESTful APIs and performing CRUD operations with microservices architecture. 
+# REST-API-with-microservice
+Building RESTful APIs and performing CRUD operations using microservices architecture. 
